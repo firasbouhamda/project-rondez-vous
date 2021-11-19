@@ -1,0 +1,29 @@
+{
+  "modal": {
+    "title": "Event Title",
+    "description": "Event Description"
+  },
+  "days": {
+    "sun": "Sunday",
+    "mon": "Monday",
+    "tue": "Tuesday",
+    "wed": "Wednesday",
+    "thu": "Thursday",
+    "fri": "Friday",
+    "sat": "Saturday"
+  },
+  "month": {
+    "December": "December",
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November"
+  }
+}
